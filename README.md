@@ -48,12 +48,11 @@ I build AI systems that sit at the intersection of **research and production** �
 
 Quick implementations built to deepen understanding of specific AI techniques.
 
-| Topic | What I Built | Stack |
-|---|---|---|
-| Conversational AI | RASA intent classification + dialogue flow | RASA · Python |
-| RAG Pipeline | Document Q&A with retrieval-augmented generation | LangChain · FAISS · OpenAI |
-| AI Planner | LLM-based task planning and decomposition agent | LangChain · GPT |
-| Email RAG | Email search and summarization with RAG | LangChain · FAISS · SMTP |
+| Topic | What I Built | Stack | Repo |
+|---|---|---|---|
+| Email RAG | Privacy-preserving personal email Q&A — Gmail OAuth, pgvector semantic search, multi-user isolation | LangChain · pgvector · Mistral · Ollama | [View](https://github.com/Mithil-hub/Email-RAG-Assistant) |
+| AI Travel Planner | LangGraph ReAct agent — weather, places, currency and expense tools with FastAPI + Streamlit | LangGraph · FastAPI · Streamlit · Groq | [View](https://github.com/Mithil-hub/AI-Travel-Planner-Agent) |
+| RecSys Benchmark | MF vs NCF vs DMF on MovieLens — RMSE, Precision, Recall comparison | Keras · TensorFlow · MovieLens | [View](https://github.com/Mithil-hub/MovieLens-RecSys-Benchmark) |
 
 
 ## Technical Stack
