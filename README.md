@@ -1,4 +1,4 @@
-# Hey, Mithilesh Kothandaraman Here!! <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e73133fb-c646-4a97-83c3-e2c7589770da" />
+# Hey, Mithilesh Kothandaraman Here!! 
 
 
 
