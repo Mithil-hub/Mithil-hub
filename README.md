@@ -13,9 +13,9 @@ Specializing in **LLMs · Generative AI · CAD Multimodal Systems · Market Micr
 
 I build AI systems that sit at the intersection of **research and production** — from training transformer-based models and fine-tuning LLMs to designing multi-agent pipelines and analyzing high-frequency trading data.
 
-- 🔬 **Research:** Spatial-aware CAD generation, transformer policy models, multimodal diffusion
-- 🤖 **LLMs:** RAG pipelines, LangChain/LangGraph agents, LoRA/PEFT fine-tuning, MCP server integration
-- 📈 **Quant Finance:** KDB+/Q limit order book reconstruction, OFI signals, HFT microstructure
+- 🔬 **Research:** Spatial-aware CAD geometry-aware AI, transformer policy models, multimodal diffusion
+- 🤖 **LLMs & GenAI:** RAG pipelines, LangChain/LangGraph agents, LoRA/PEFT fine-tuning, CAD geometry-aware generation, MCP server integration
+- 📈 **Quant Finance:** High-frequency trading data analysis, order flow imbalance, limit order book reconstruction, market microstructure
 - 🎓 **Education:** MS Data Science, ASU (GPA 3.78) · BS Computer Science, SRM University (GPA 3.8)
 - 🌍 **Location:** Tempe, AZ · Open to 2026 New Grad & Internship roles
 
