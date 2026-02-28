@@ -22,7 +22,7 @@ I build AI systems that sit at the intersection of **research and production** �
 - 🤖 **LLMs & GenAI:** RAG pipelines, LangChain/LangGraph agents, LoRA/PEFT fine-tuning, CAD geometry-aware generation, MCP server integration
 - 📈 **Quant Finance:** High-frequency trading data analysis, order flow imbalance, limit order book reconstruction, market microstructure
 - 🎓 **Education:** MS Data Science, ASU (GPA 3.78) · BS Computer Science, SRM University (GPA 3.8)
-- 🌍 **Location:** Tempe, AZ · Open to 2026 New Grad & Internship roles
+- 🌍 **Location:** Tempe, AZ · Open to 2026 New Grad & Internship roles ( **Relocation within USA** )
 
 ---
 
