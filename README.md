@@ -1,7 +1,7 @@
 # Hi, I'm Mithilesh Kothandaraman 👋
 
 **AI Researcher & Engineer** — MS Data Science @ Arizona State University  
-Specializing in **LLMs · Generative AI · Multimodal Systems · Market Microstructure**
+Specializing in **LLMs · Generative AI · CAD Multimodal Systems · Market Microstructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mithilesh-kothandaraman-8940461b9/)
 [![Email](https://img.shields.io/badge/Email-mkothand@asu.edu-D14836?style=flat&logo=gmail)](mailto:mkothand@asu.edu)
