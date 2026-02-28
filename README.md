@@ -54,7 +54,6 @@ Quick implementations built to deepen understanding of specific AI techniques.
 | AI Travel Planner | LangGraph ReAct agent — weather, places, currency and expense tools with FastAPI + Streamlit | LangGraph · FastAPI · Streamlit · Groq | [View](https://github.com/Mithil-hub/AI-Travel-Planner-Agent) |
 | RecSys Benchmark | MF vs NCF vs DMF on MovieLens — RMSE, Precision, Recall comparison | Keras · TensorFlow · MovieLens | [View](https://github.com/Mithil-hub/Deep-Learning-for-Dynamic-Movie-Recommendations) |
 
-
 ## Technical Stack
 
 **AI & ML**
