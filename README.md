@@ -44,6 +44,18 @@ I build AI systems that sit at the intersection of **research and production** �
 
 ---
 
+## Learning & Exploration
+
+Quick implementations built to deepen understanding of specific AI techniques.
+
+| Topic | What I Built | Stack |
+|---|---|---|
+| Conversational AI | RASA intent classification + dialogue flow | RASA · Python |
+| RAG Pipeline | Document Q&A with retrieval-augmented generation | LangChain · FAISS · OpenAI |
+| AI Planner | LLM-based task planning and decomposition agent | LangChain · GPT |
+| Email RAG | Email search and summarization with RAG | LangChain · FAISS · SMTP |
+
+
 ## Technical Stack
 
 **AI & ML**
