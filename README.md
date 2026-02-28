@@ -35,7 +35,7 @@ I build AI systems that sit at the intersection of **research and production** �
 
 | Project | Description | Stack |
 |---|---|---|
-| [**LOB Engine KDB**](https://github.com/Mithil-hub/HFT-Market-Microstructure-) | Limit order book reconstruction on HFT data — OFI signals, 27 microstructure features, market making & stat arb | KDB+/Q · Databento · Fisher LDA |
+| [**LOB Engine KDB**](https://github.com/Mithil-hub/HFT-Market-Microstructure-Analytics-KDB-Q-) | Limit order book reconstruction on HFT data — OFI signals, 27 microstructure features, market making & stat arb | KDB+/Q · Databento · Fisher LDA |
 
 ---
 
