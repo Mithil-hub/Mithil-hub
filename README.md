@@ -40,7 +40,7 @@ I build AI systems that sit at the intersection of **research and production** �
 
 | Project | Description |
 |---|---|
-| **HFT-Market Microstructure Analytics** 🔒 | Reconstructed a live limit order book from 5,806 nanosecond-precision MBO events using vectorized q queries — OFI signals, 27 microstructure features, market making & stat arb · Private repo — message me on LinkedIn for access |
+| **HFT-Market Microstructure Analytics** 🔒 | Reconstructed a live limit order book from 50,806 nanosecond-precision MBO events using vectorized q queries — OFI signals, 27 microstructure features, market making & stat arb · Private repo — message me on LinkedIn for access |
 
 ---
 
