@@ -1,4 +1,4 @@
-# Hey, Mithilesh Kothandaraman Here!!<img width="7" height="7" alt="image" src="https://github.com/user-attachments/assets/6bfe8504-d1a0-40cd-9c33-f8b99706ec8f" />
+# Hey, Mithilesh Kothandaraman Here!!<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6bfe8504-d1a0-40cd-9c33-f8b99706ec8f" />
 
 
 **AI Researcher & Engineer** — MS Data Science @ Arizona State University  
