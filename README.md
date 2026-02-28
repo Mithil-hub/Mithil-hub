@@ -1,4 +1,5 @@
-# Hi, I'm Mithilesh Kothandaraman 👋
+# Hey, Mithilesh Kothandaraman Here!!<img width="179" height="179" alt="image" src="https://github.com/user-attachments/assets/6bfe8504-d1a0-40cd-9c33-f8b99706ec8f" />
+
 
 **AI Researcher & Engineer** — MS Data Science @ Arizona State University  
 Specializing in **LLMs · Generative AI · CAD Multimodal Systems · Market Microstructure**
