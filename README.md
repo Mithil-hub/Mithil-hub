@@ -1,4 +1,6 @@
-# Hey, Mithilesh Kothandaraman Here!!<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6bfe8504-d1a0-40cd-9c33-f8b99706ec8f" />
+# Hey, Mithilesh Kothandaraman Here!! <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/535ca9d4-5052-42db-a445-f22c213777ea" />
+
+
 
 
 **AI Researcher & Engineer** — MS Data Science @ Arizona State University  
@@ -34,9 +36,9 @@ I build AI systems that sit at the intersection of **research and production** �
 
 ### 📊 Quantitative Finance
 
-| Project | Description | Stack |
-|---|---|---|
-| **HFT-Market Microstructure Analytics** 🔒 | Limit order book reconstruction on HFT data — OFI signals, 27 microstructure features, market making & stat arb · *Private repo — [message me on LinkedIn](https://www.linkedin.com/in/mithilesh-kothandaraman-8940461b9/) for access* | KDB+/Q · Databento · Fisher LDA |
+| Project | Description |
+|---|---|
+| **HFT-Market Microstructure Analytics** 🔒 | Reconstructed a live limit order book from 5,806 nanosecond-precision MBO events using vectorized q queries — OFI signals, 27 microstructure features, market making & stat arb · Private repo — message me on LinkedIn for access |
 
 ---
 
