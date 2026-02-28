@@ -50,9 +50,9 @@ Quick implementations built to deepen understanding of specific AI techniques.
 
 | Topic | What I Built | Stack | Repo |
 |---|---|---|---|
-| Email RAG | Privacy-preserving personal email Q&A — Gmail OAuth, pgvector semantic search, multi-user isolation | LangChain · pgvector · Mistral · Ollama | [View](https://github.com/Mithil-hub/Email-RAG-Assistant) |
+| Email RAG | Privacy-preserving personal email Q&A — Gmail OAuth, pgvector semantic search, multi-user isolation | LangChain · pgvector · Mistral · Ollama | [View](https://github.com/Mithil-hub/Personal-Email-RAG-pgvector) |
 | AI Travel Planner | LangGraph ReAct agent — weather, places, currency and expense tools with FastAPI + Streamlit | LangGraph · FastAPI · Streamlit · Groq | [View](https://github.com/Mithil-hub/AI-Travel-Planner-Agent) |
-| RecSys Benchmark | MF vs NCF vs DMF on MovieLens — RMSE, Precision, Recall comparison | Keras · TensorFlow · MovieLens | [View](https://github.com/Mithil-hub/MovieLens-RecSys-Benchmark) |
+| RecSys Benchmark | MF vs NCF vs DMF on MovieLens — RMSE, Precision, Recall comparison | Keras · TensorFlow · MovieLens | [View](https://github.com/Mithil-hub/Deep-Learning-for-Dynamic-Movie-Recommendations) |
 
 
 ## Technical Stack
