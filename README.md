@@ -90,14 +90,6 @@ AWS SageMaker · Google Cloud AI · Microsoft Azure · Docker · Git · MLOps
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithil-hub&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithil-hub&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Currently Working On
 
